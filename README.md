@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola, sejam muito bem-vindos ao meu perfil, sintam-se em casa. E não se esqueça de dar uma olhada nos meus outros projetos!
 
 <!--
 **AnaCarolineQ3ano/AnaCarolineq3ano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
